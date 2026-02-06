@@ -9,7 +9,7 @@ Chrome's built-in tab search (Cmd+Shift+A) can only switch to a tab in its exist
 1. Go to `chrome://extensions`
 2. Enable **Developer mode**
 3. Click **Load unpacked** and select this directory
-4. (Optional) Rebind the shortcut at `chrome://extensions/shortcuts` — default is `Cmd+.` / `Ctrl+.`
+4. (Optional) Rebind the shortcut at `chrome://extensions/shortcuts` — default is `Cmd+.` / `Ctrl+.`. Set it to `Cmd+Shift+A` to replace Chrome's built-in tab search with this one.
 
 ## Usage
 
